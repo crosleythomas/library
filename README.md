@@ -3,8 +3,9 @@ layout: default
 title: Artificial Intelligence Library
 ---
 
-# library
-Sorted accumulation of interesting reading.
+# Artificial Intelligence Library
+There are a lot of great resources these days for finding academic research, such as <a href="semanticscholar.org">Semantic Scholar</a>, <a href="https://arxiv.org/">arXiv</a>, and <a href="http://www.arxiv-sanity.com/">Arxiv Sanity Preserver</a>.<br><br>
+These sites are all great but can get a bit unwieldy.  Sometimes, what you really need is a librarian to point you right where you should be.  This repository is meant to be a more curated and selective collection of the most interesting AI papers being published.
 
 ## Format
 library/<br>
@@ -25,3 +26,9 @@ The easiest way to create a new topic is:
 cp -r template <topic_name>
 ```
 Then replace as necessary.
+
+## Guidelines
+* ** Duplicates are okay! **  One paper can fall under multiple topics.  Err on the side of over-duplication rather than under-duplication.  If a paper discusses both more than one topic, list it under all of them.</li>
+* ** Keep tables chronologically sorted. ** Trends are important, let the arc of thinking let us know what we're missing.
+* ** Contributions welcome! ** 
+
