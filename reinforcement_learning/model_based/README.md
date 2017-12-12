@@ -7,7 +7,7 @@ title: Model-Based Reinforcement Learning
 
 | Year | Title | Authors | Affiliation | Code | Other |
 | --- | --- | --- | --- | --- | --- |
-| 2017 | [TreeQN and ATreeC: Differentiable Tree Planning For Deep Reinforcement Learning](papers/treeqn_atreec.pdf, "Combining deep model-free reinforcement learning with on-line planning is a
+| 2017 | [TreeQN and ATreeC: Differentiable Tree Planning For Deep Reinforcement Learning](papers/treeqn_atreec.pdf "Combining deep model-free reinforcement learning with on-line planning is a
 promising approach to building on the successes of deep RL. On-line planning with
 look-ahead trees has proven successful in environments where transition models are
 known a priori. However, in complex environments where transition models need
