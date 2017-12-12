@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Topic Title
+title: Multimodal RL
 ---
 
-# Topic Title
+# Multimodal RL
 
 | Year | Title | Authors | Affiliation | Code | Other |
 | --- | --- | --- | --- | --- | --- |
