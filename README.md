@@ -28,7 +28,7 @@ cp -r template <topic_name>
 Then replace as necessary.
 
 ## Guidelines
-* ** Duplicates are okay! **  One paper can fall under multiple topics.  Err on the side of over-duplication rather than under-duplication.  If a paper discusses both more than one topic, list it under all of them.</li>
-* ** Keep tables chronologically sorted. ** Trends are important, let the arc of thinking let us know what we're missing.
-* ** Contributions welcome! ** 
+* **Duplicates are okay!**  One paper can fall under multiple topics.  Err on the side of over-duplication rather than under-duplication.  If a paper discusses both more than one topic, list it under all of them.</li>
+* **Keep tables chronologically sorted.** Trends are important, let the arc of thinking let us know what we're missing.
+* **Contributions welcome!** 
 
