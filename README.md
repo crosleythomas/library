@@ -24,9 +24,9 @@ Every new topic should have:
 ## Structure
 When adding a new paper:
 1. Add it into the table (chronologically!) of the appropriate topic, or set of topics.
-2. Save the paper
+2. Save the paper into the papers directory of the corresponding subdirectory.
 
-The easiest way to create a new topic is:
+## Creating a new topic:
 ```
 cp -r template <topic_name>
 ```
