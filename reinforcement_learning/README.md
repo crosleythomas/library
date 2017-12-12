@@ -1,3 +1,7 @@
+---
+layout: default
+title: Reinforcement Learning
+---
 # Reinforcement Learning
 
 <span style="background-color:#f8f8f8; border-radius:10px; border: 3px solid #2e3436; padding: 7px;">class</span> <span style="background-color:#feefce; border-radius:10px; border: 3px solid #2e3436; padding: 7px;">section</span>

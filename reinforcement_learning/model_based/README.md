@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Model-Based Reinforcement Learning
-permalink: /reinforcement_learning/model_based/README.md
 ---
 
 # Model-Based Reinforcement Learning
