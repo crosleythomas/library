@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Topic Title
+permalink: /reinforcement_learning/multimodal/README.html
 ---
 
 # Topic Title
