@@ -1,0 +1,17 @@
+# Site settings
+title: Artificial Intelligence Library
+email: crosleythomas@gmail.edu
+description: "Curated collection of AI related materials."
+url: "https://github.com/crosleythomas/library/"
+baseurl: /library/
+
+# Build settings
+permalink: pretty
+highlighter: rouge
+
+markdown_ext: "md"
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
