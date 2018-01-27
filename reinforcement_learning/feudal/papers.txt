@@ -1,0 +1,2 @@
+Feudal Reinforcement Learning:::https://papers.nips.cc/paper/714-feudal-reinforcement-learning.pdf
+Feudal Reinforcement Learning for Hierarchical Reinforcement Learning:::https://arxiv.org/pdf/1703.01161.pdf

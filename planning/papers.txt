@@ -1,0 +1,10 @@
+On Learning to Think:::https://arxiv.org/pdf/1511.09249.pdf
+Value Iteration Networks:::https://arxiv.org/pdf/1602.02867.pdf
+Metacontrol for Adaptive Imagination-Based Optimization:::https://arxiv.org/pdf/1705.02670.pdf
+Imagination-Augmented Agents for Deep Reinforcement Learning:::https://arxiv.org/pdf/1707.06203.pdf
+The Predictron: End-To-End Learning and Planning:::https://arxiv.org/pdf/1612.08810.pdf
+Learning model-based planning from scratch:::https://arxiv.org/pdf/1707.06170.pdf
+TreeQN and ATreeC: Differentiable Tree Planning for Deep Reinforcement Learning:::https://arxiv.org/pdf/1710.11417.pdf
+Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation:::https://arxiv.org/pdf/1710.05627.pdf
+Value Prediction Network:::https://arxiv.org/pdf/1707.03497.pdf
+QMDP-Net: Deep Learning for Planning under Partial Observability:::https://arxiv.org/pdf/1703.06692.pdf

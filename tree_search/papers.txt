@@ -1,0 +1,3 @@
+On-line Policy Improvement using Monte-Carlo Search:::https://papers.nips.cc/paper/1302-on-line-policy-improvement-using-monte-carlo-search.pdf
+A Survey of Monte Carlo Tree Search Methods:::http://mcts.ai/pubs/mcts-survey-master.pdf
+On Monte Carlo Tree Search and Reinforcement Learning:::https://www.jair.org/media/5507/live-5507-10333-jair.pdf

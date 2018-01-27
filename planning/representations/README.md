@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Topic Title
+title: Representations for Planning
 ---
 
-# Topic Title
+# Representations for Planning
 
 | Year | Title | Authors | Affiliation | Code | Scholar | Other |
 | --- | --- | --- | --- | --- | --- |
