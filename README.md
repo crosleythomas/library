@@ -11,12 +11,12 @@ These sites are all great but can get a bit unwieldy.  Sometimes, what you reall
 library/<br>
 library/topic<br>
 library/topic/readme.md -- list of papers related to this topic [year, title (w/ hyperlink), authors, affiliation, code, other relevant links]<br>
-library/topic/papers.txt -- list of paper titles with their arxiv link for offline download
+library/topic/papers.txt -- list of paper titles with their arxiv link for offline download<br>
 library/topic/papers -- stored papers (after running the pull.py script locally)<br>
 
 library/topic/subtopic -- more specific subtopic of topic (i.e. library/rl/model_based_rl )<br>
 library/topic/subtopic/readme.md -- list of papers related to this subtopic of topic [year, title (w/ hyperlink), authors]<br>
-library/topic/subtopic/papers.txt -- list of paper titles with their arxiv link for offline download
+library/topic/subtopic/papers.txt -- list of paper titles with their arxiv link for offline download<br>
 library/topic/subtopic/papers -- stored papers (after running the pull.py script locally)<br>
 
 Every new topic should have:
