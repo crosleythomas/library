@@ -1,0 +1,3 @@
+Incremental Semantically Grounded Learning from Demonstration:::http://www.roboticsproceedings.org/rss09/p48.pdf
+Learning to Compose Skills:::https://arxiv.org/pdf/1711.11289.pdf
+Constructing Abstraction Hierarchies Using a Skill-Symbol Loop:::https://arxiv.org/pdf/1509.07582.pdf
