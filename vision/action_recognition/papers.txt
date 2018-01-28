@@ -1,0 +1,1 @@
+Sum Product Networks for Activity Recognition:::http://web.engr.oregonstate.edu/~sinisa/research/publications/PAMI_SPN.pdf
